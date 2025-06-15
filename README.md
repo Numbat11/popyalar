@@ -26,3 +26,5 @@ All listed products will have an option to buy using number one popular products
 
 Set up secure payment gateways with Stripe for credit card payments and Reown Appkit for cryptocurrency (Final Phase complete build). 
 
+Director:
+Steven Bart, The Numbat, numbat11@gmail.com
